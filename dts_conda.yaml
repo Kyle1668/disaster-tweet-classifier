@@ -11,9 +11,10 @@ dependencies:
     - unidecode
     - nltk
     - matplotlib
-    - pytorch
+    - torch
     - torchvision
     - torchaudio
     - torchtext
     - transformers
     - PyYaml 
+    - datasets

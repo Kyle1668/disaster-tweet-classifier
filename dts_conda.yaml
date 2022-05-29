@@ -1,0 +1,19 @@
+name: disaster-tweet-classifier-env
+channels:
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip:
+    - scipy
+    - scikit-learn
+    - numpy
+    - pandas
+    - unidecode
+    - nltk
+    - matplotlib
+    - pytorch
+    - torchvision
+    - torchaudio
+    - torchtext
+    - transformers
+    - PyYaml 

@@ -16,5 +16,6 @@ dependencies:
     - torchaudio
     - torchtext
     - transformers
-    - PyYaml 
+    - PyYaml
     - datasets
+    - ipykernel
